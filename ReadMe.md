@@ -3,17 +3,18 @@ Title
     IP Geolocation
 
 2 - 3 Sentence Project Description (Elevator Pitch)
-  Ever wonder where your information's going? Or who's trying to send you something? Just enter the IP address you've got 
-  and have all the Geolocation info at your fingertips.
+    
+    Ever wonder where your information's going? Or who's trying to send you something? Just enter the IP address you've got 
+    and have all the Geolocation info at your fingertips.
 
 What is your motivation for creating this project?
 
     A great way to build up a resume!
 
 How will users interact with your web site?
-
-   The landing page has a search form where the user enters their ip they'd like to search, then the second page responds with 
-   info about it and it's location on google maps
+    
+    The landing page has a search form where the user enters their ip they'd like to search, then the second page responds with 
+    info about it and it's location on google maps
    
 What 3rd Party API(s) will you integrate with?
 
