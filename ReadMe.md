@@ -1,6 +1,6 @@
-IP Geolocation
+Title
 
-    Give your project a good name like: MyPantry or BestNews instead of project-01
+    IP Geolocation
 
 2 - 3 Sentence Project Description (Elevator Pitch)
   Ever wonder where your information's going? Or who's trying to send you something? Just enter the IP address you've got 
