@@ -22,7 +22,7 @@ window.onload = function getIpInfo(){
     iframe.style="border:0";
     iframe.src = `${maps}${data["lat"]},${data["lon"]}`;
     document.getElementById("map").appendChild(iframe);
-    // document.getElementsByTagName("iframe").src = `${maps}${data["lat"]},${data["lon"]}`;
+  
     
     document.getElementById("output").innerHTML = output;
 
