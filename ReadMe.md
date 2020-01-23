@@ -31,7 +31,7 @@ Tech Stack
 
 What will be your process?
 
-    What project management tool will you use? None :/
+    What project management tool will you use? None
     How often will you commit your code? Every major change
     How will you test your web site? local testing
     How will you design the layout of your website? Will you use a wireframing tool? Will you draw it on paper? On paper!
