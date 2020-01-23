@@ -1,3 +1,7 @@
+Use:
+
+Clone repo and run with liveserver or similar local source.
+
 Title
 
     IP Geolocation
